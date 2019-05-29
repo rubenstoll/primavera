@@ -10,6 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ApplicationREST {
 
+  //  http://localhost:3412/greeting
   public static void main(String args[]) {
     SpringApplication.run(ApplicationREST.class, args);
   }
