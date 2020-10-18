@@ -20,7 +20,7 @@
 		<log4j.version>2.11.1</log4j.version>
 		<slf4j.version>1.7.21</slf4j.version>
 		<!--TEST-->
-		<version.junit>4.12</version.junit>
+		<version.junit>4.13.1</version.junit>
 		<version.mockito>1.10.19</version.mockito>
 		<version.hamcrest>2.0.0.0</version.hamcrest>
 	</properties>
